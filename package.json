@@ -3,9 +3,6 @@
   "version": "0.0.1",
   "description": "A NodeJS server application that manages all the same assets of YouTube without relying on YouTube's servers.",
   "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Patrick-W-McMahon/YouTubeOfflineServer.git"
@@ -31,6 +28,8 @@
   },
   "homepage": "https://github.com/Patrick-W-McMahon/YouTubeOfflineServer#readme",
   "dependencies": {
+    "babel-core": "^6.9.0",
+    "cas-core-renderer": "git+ssh://git@stash.corp.web:7999/cas/cas-core-renderer.git#dist/1.0.6",
     "babel-loader": "^6.2.5",
     "babel-preset-es2015": "^6.16.0",
     "babel-preset-react": "^6.16.0",

@@ -11,7 +11,13 @@ This is in alpha and should not be used yet. I’ll update the readme as it prog
 
 Quick start
 ==========
-[TBD]
+1. Install the project dependencies using npm
+
+    npm install 
+
+2. Start the development node server
+
+    npm run dev
 
 
 Requirements

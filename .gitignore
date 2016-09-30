@@ -35,3 +35,9 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+bin/client/app/bundle.js
+
+bin/client/app/bundle.js.map
+
+bin/client/app/index.html

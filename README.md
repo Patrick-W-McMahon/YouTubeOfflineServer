@@ -9,16 +9,6 @@ This is in alpha and should not be used yet. I’ll update the readme as it prog
 
 [![Click here to lend your support to YouTube Offline Server and make a donation at pledgie.com!](https://pledgie.com/campaigns/32647.png?skin_name=chrome)](https://pledgie.com/campaigns/ 32647)
 
-Quick start
-==========
-1. Install the project dependencies using npm
-
-    npm install 
-
-2. Start the development node server
-
-    npm run dev
-
 
 Requirements
 ============
@@ -28,10 +18,6 @@ Requirements
 Installation
 ============
 [TBD]
-
-Contribute
-============
-When committing code don't include the bin directory. The bin is compiled by webpack and I want to keep this repo slim and clutter free. On first run webpack will make the bin directory and it's contents for you. Any commits that include the bin directory will be rejected. Lets keep this repo clean of clutter. 
 
 
 Features
